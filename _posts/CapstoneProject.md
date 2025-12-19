@@ -126,3 +126,6 @@ __Tools Used:__
 The main challenges that I have faced are with 3D printing my prototype. Oringnally my print failed becuase the nosel on the printer was clogged. When I reprinted it on a different printer, the bed was not placed on correctly so it kept hitting against the display. The print was stopped by a teacher and thrown out before I was able to see thought. I face  large chellenge with my GitHub site because when I would commit nothing woudl show on the website. I tried trouble shooting a lot with Collin Kanofsky, but I eventually had to create a new repository, copy and paste everything into my new repo, unpublish my old repo, and now everything is working properly.
 
 ![PCB Image](/assets/images/IMG_1569.HEIC)
+
+
+i added somthing
